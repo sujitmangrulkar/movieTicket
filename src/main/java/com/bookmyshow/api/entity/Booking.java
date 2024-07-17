@@ -32,6 +32,8 @@ public class Booking
 //    @Column(name="SHOW_TIME_ID")
 //    private String showTimeId;
 
+    //Sujit Balasaheb Mangrulkar
+
     @Column(name="BOOKED_SEATS")
     private List<String> seats;
 
